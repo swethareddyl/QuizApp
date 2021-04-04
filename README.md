@@ -22,7 +22,7 @@ As a coding boot camp student, I want to take a timed quiz on JavaScript fundame
 
 6. When all questions are answered or the timer reaches 0, then the game is over
 
-7. When the game is over, a message displayed mentioning that the gave is over and a score at the top right corner is displayed d
+7. When the game is over, a message displayed mentioning that the gave is over and a score at the top right corner is displayed
 
 ## Mock-Up
 
@@ -31,8 +31,8 @@ The following image shows the web application's appearance and functionality:
 ![Quiz App](./assets/quiz-app.png)
 
 ## URL of the website 
-https://swethareddyl.github.io/PasswordGenerator/  
+https://swethareddyl.github.io/QuizApp/  
 
 ## Github link 
-https://github.com/swethareddyl/PasswordGenerator.git
+https://github.com/swethareddyl/QuizApp.git
 
