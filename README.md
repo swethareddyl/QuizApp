@@ -28,7 +28,7 @@ As a coding boot camp student, I want to take a timed quiz on JavaScript fundame
 
 The following image shows the web application's appearance and functionality:
 
-![Quiz App](./assets/quiz-app.png)
+![Quiz App](./assets/quiz-app.PNG)
 
 ## URL of the website 
 https://swethareddyl.github.io/QuizApp/  
